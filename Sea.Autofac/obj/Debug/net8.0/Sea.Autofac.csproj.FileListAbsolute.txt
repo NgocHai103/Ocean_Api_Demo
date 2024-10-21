@@ -1,0 +1,12 @@
+E:\Research\Test\Sea.Test\Sea.Autofac\bin\Debug\net8.0\Sea.Autofac.deps.json
+E:\Research\Test\Sea.Test\Sea.Autofac\bin\Debug\net8.0\Sea.Autofac.dll
+E:\Research\Test\Sea.Test\Sea.Autofac\bin\Debug\net8.0\Sea.Autofac.pdb
+E:\Research\Test\Sea.Test\Sea.Autofac\obj\Debug\net8.0\Sea.Autofac.csproj.AssemblyReference.cache
+E:\Research\Test\Sea.Test\Sea.Autofac\obj\Debug\net8.0\Sea.Autofac.GeneratedMSBuildEditorConfig.editorconfig
+E:\Research\Test\Sea.Test\Sea.Autofac\obj\Debug\net8.0\Sea.Autofac.AssemblyInfoInputs.cache
+E:\Research\Test\Sea.Test\Sea.Autofac\obj\Debug\net8.0\Sea.Autofac.AssemblyInfo.cs
+E:\Research\Test\Sea.Test\Sea.Autofac\obj\Debug\net8.0\Sea.Autofac.csproj.CoreCompileInputs.cache
+E:\Research\Test\Sea.Test\Sea.Autofac\obj\Debug\net8.0\Sea.Autofac.dll
+E:\Research\Test\Sea.Test\Sea.Autofac\obj\Debug\net8.0\refint\Sea.Autofac.dll
+E:\Research\Test\Sea.Test\Sea.Autofac\obj\Debug\net8.0\Sea.Autofac.pdb
+E:\Research\Test\Sea.Test\Sea.Autofac\obj\Debug\net8.0\ref\Sea.Autofac.dll

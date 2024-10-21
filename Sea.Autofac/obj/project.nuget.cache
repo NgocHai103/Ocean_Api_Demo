@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "shC0kwnod2E=",
+  "success": true,
+  "projectFilePath": "E:\\Research\\Test\\Sea.Test\\Sea.Autofac\\Sea.Autofac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hai.le\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\hai.le\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\hai.le\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\hai.le\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

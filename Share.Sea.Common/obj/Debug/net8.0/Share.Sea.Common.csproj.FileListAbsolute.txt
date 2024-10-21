@@ -1,0 +1,12 @@
+E:\Research\Test\Sea.Test\Share.Sea.Common\bin\Debug\net8.0\Share.Sea.Common.deps.json
+E:\Research\Test\Sea.Test\Share.Sea.Common\bin\Debug\net8.0\Share.Sea.Common.dll
+E:\Research\Test\Sea.Test\Share.Sea.Common\bin\Debug\net8.0\Share.Sea.Common.pdb
+E:\Research\Test\Sea.Test\Share.Sea.Common\obj\Debug\net8.0\Share.Sea.Common.csproj.AssemblyReference.cache
+E:\Research\Test\Sea.Test\Share.Sea.Common\obj\Debug\net8.0\Share.Sea.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Research\Test\Sea.Test\Share.Sea.Common\obj\Debug\net8.0\Share.Sea.Common.AssemblyInfoInputs.cache
+E:\Research\Test\Sea.Test\Share.Sea.Common\obj\Debug\net8.0\Share.Sea.Common.AssemblyInfo.cs
+E:\Research\Test\Sea.Test\Share.Sea.Common\obj\Debug\net8.0\Share.Sea.Common.csproj.CoreCompileInputs.cache
+E:\Research\Test\Sea.Test\Share.Sea.Common\obj\Debug\net8.0\Share.Sea.Common.dll
+E:\Research\Test\Sea.Test\Share.Sea.Common\obj\Debug\net8.0\refint\Share.Sea.Common.dll
+E:\Research\Test\Sea.Test\Share.Sea.Common\obj\Debug\net8.0\Share.Sea.Common.pdb
+E:\Research\Test\Sea.Test\Share.Sea.Common\obj\Debug\net8.0\ref\Share.Sea.Common.dll

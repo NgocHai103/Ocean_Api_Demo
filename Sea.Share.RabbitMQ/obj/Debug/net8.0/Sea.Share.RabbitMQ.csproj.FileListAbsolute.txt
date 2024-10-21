@@ -1,0 +1,12 @@
+E:\Research\Test\Sea.Test\Sea.Share.RabbitMQ\bin\Debug\net8.0\Sea.Share.RabbitMQ.deps.json
+E:\Research\Test\Sea.Test\Sea.Share.RabbitMQ\bin\Debug\net8.0\Sea.Share.RabbitMQ.dll
+E:\Research\Test\Sea.Test\Sea.Share.RabbitMQ\bin\Debug\net8.0\Sea.Share.RabbitMQ.pdb
+E:\Research\Test\Sea.Test\Sea.Share.RabbitMQ\obj\Debug\net8.0\Sea.Share.RabbitMQ.csproj.AssemblyReference.cache
+E:\Research\Test\Sea.Test\Sea.Share.RabbitMQ\obj\Debug\net8.0\Sea.Share.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Research\Test\Sea.Test\Sea.Share.RabbitMQ\obj\Debug\net8.0\Sea.Share.RabbitMQ.AssemblyInfoInputs.cache
+E:\Research\Test\Sea.Test\Sea.Share.RabbitMQ\obj\Debug\net8.0\Sea.Share.RabbitMQ.AssemblyInfo.cs
+E:\Research\Test\Sea.Test\Sea.Share.RabbitMQ\obj\Debug\net8.0\Sea.Share.RabbitMQ.csproj.CoreCompileInputs.cache
+E:\Research\Test\Sea.Test\Sea.Share.RabbitMQ\obj\Debug\net8.0\Sea.Share.RabbitMQ.dll
+E:\Research\Test\Sea.Test\Sea.Share.RabbitMQ\obj\Debug\net8.0\refint\Sea.Share.RabbitMQ.dll
+E:\Research\Test\Sea.Test\Sea.Share.RabbitMQ\obj\Debug\net8.0\Sea.Share.RabbitMQ.pdb
+E:\Research\Test\Sea.Test\Sea.Share.RabbitMQ\obj\Debug\net8.0\ref\Sea.Share.RabbitMQ.dll

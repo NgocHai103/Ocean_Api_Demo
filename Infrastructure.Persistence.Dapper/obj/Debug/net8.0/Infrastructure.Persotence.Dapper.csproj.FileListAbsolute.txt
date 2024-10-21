@@ -1,0 +1,15 @@
+E:\Research\Test\Sea.Test\Infrastructure.Persotence.Dapper\bin\Debug\net8.0\Infrastructure.Persotence.Dapper.deps.json
+E:\Research\Test\Sea.Test\Infrastructure.Persotence.Dapper\bin\Debug\net8.0\Infrastructure.Persotence.Dapper.dll
+E:\Research\Test\Sea.Test\Infrastructure.Persotence.Dapper\bin\Debug\net8.0\Infrastructure.Persotence.Dapper.pdb
+E:\Research\Test\Sea.Test\Infrastructure.Persotence.Dapper\bin\Debug\net8.0\Sea.Domain.dll
+E:\Research\Test\Sea.Test\Infrastructure.Persotence.Dapper\bin\Debug\net8.0\Sea.Domain.pdb
+E:\Research\Test\Sea.Test\Infrastructure.Persotence.Dapper\obj\Debug\net8.0\Infrastructure.Persotence.Dapper.csproj.AssemblyReference.cache
+E:\Research\Test\Sea.Test\Infrastructure.Persotence.Dapper\obj\Debug\net8.0\Infrastructure.Persotence.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\Research\Test\Sea.Test\Infrastructure.Persotence.Dapper\obj\Debug\net8.0\Infrastructure.Persotence.Dapper.AssemblyInfoInputs.cache
+E:\Research\Test\Sea.Test\Infrastructure.Persotence.Dapper\obj\Debug\net8.0\Infrastructure.Persotence.Dapper.AssemblyInfo.cs
+E:\Research\Test\Sea.Test\Infrastructure.Persotence.Dapper\obj\Debug\net8.0\Infrastructure.Persotence.Dapper.csproj.CoreCompileInputs.cache
+E:\Research\Test\Sea.Test\Infrastructure.Persotence.Dapper\obj\Debug\net8.0\Infrastr.B3C77238.Up2Date
+E:\Research\Test\Sea.Test\Infrastructure.Persotence.Dapper\obj\Debug\net8.0\Infrastructure.Persotence.Dapper.dll
+E:\Research\Test\Sea.Test\Infrastructure.Persotence.Dapper\obj\Debug\net8.0\refint\Infrastructure.Persotence.Dapper.dll
+E:\Research\Test\Sea.Test\Infrastructure.Persotence.Dapper\obj\Debug\net8.0\Infrastructure.Persotence.Dapper.pdb
+E:\Research\Test\Sea.Test\Infrastructure.Persotence.Dapper\obj\Debug\net8.0\ref\Infrastructure.Persotence.Dapper.dll

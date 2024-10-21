@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Research\\Test\\Sea.Test\\Sea.Share.ElasticSearch\\Sea.Share.ElasticSearch.csproj": {}
+  },
+  "projects": {
+    "E:\\Research\\Test\\Sea.Test\\Sea.Share.ElasticSearch\\Sea.Share.ElasticSearch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Research\\Test\\Sea.Test\\Sea.Share.ElasticSearch\\Sea.Share.ElasticSearch.csproj",
+        "projectName": "Sea.Share.ElasticSearch",
+        "projectPath": "E:\\Research\\Test\\Sea.Test\\Sea.Share.ElasticSearch\\Sea.Share.ElasticSearch.csproj",
+        "packagesPath": "C:\\Users\\hai.le\\.nuget\\packages\\",
+        "outputPath": "E:\\Research\\Test\\Sea.Test\\Sea.Share.ElasticSearch\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hai.le\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Research\\Test\\Sea.Test\\Share.Sea.Common\\Share.Sea.Common.csproj": {
+                "projectPath": "E:\\Research\\Test\\Sea.Test\\Share.Sea.Common\\Share.Sea.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Elastic.Apm.SerilogEnricher": {
+              "target": "Package",
+              "version": "[8.12.0, )"
+            },
+            "Elastic.Channels": {
+              "target": "Package",
+              "version": "[0.7.2, )"
+            },
+            "Elastic.Serilog.Sinks": {
+              "target": "Package",
+              "version": "[8.12.0, )"
+            },
+            "Elasticsearch.Net": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Research\\Test\\Sea.Test\\Share.Sea.Common\\Share.Sea.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Research\\Test\\Sea.Test\\Share.Sea.Common\\Share.Sea.Common.csproj",
+        "projectName": "Share.Sea.Common",
+        "projectPath": "E:\\Research\\Test\\Sea.Test\\Share.Sea.Common\\Share.Sea.Common.csproj",
+        "packagesPath": "C:\\Users\\hai.le\\.nuget\\packages\\",
+        "outputPath": "E:\\Research\\Test\\Sea.Test\\Share.Sea.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hai.le\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.8.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

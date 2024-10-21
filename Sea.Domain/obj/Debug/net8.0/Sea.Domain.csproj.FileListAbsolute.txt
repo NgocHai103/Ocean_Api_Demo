@@ -1,0 +1,12 @@
+E:\Research\Test\Sea.Test\Sea.Domain\bin\Debug\net8.0\Sea.Domain.deps.json
+E:\Research\Test\Sea.Test\Sea.Domain\bin\Debug\net8.0\Sea.Domain.dll
+E:\Research\Test\Sea.Test\Sea.Domain\bin\Debug\net8.0\Sea.Domain.pdb
+E:\Research\Test\Sea.Test\Sea.Domain\obj\Debug\net8.0\Sea.Domain.csproj.AssemblyReference.cache
+E:\Research\Test\Sea.Test\Sea.Domain\obj\Debug\net8.0\Sea.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Research\Test\Sea.Test\Sea.Domain\obj\Debug\net8.0\Sea.Domain.AssemblyInfoInputs.cache
+E:\Research\Test\Sea.Test\Sea.Domain\obj\Debug\net8.0\Sea.Domain.AssemblyInfo.cs
+E:\Research\Test\Sea.Test\Sea.Domain\obj\Debug\net8.0\Sea.Domain.csproj.CoreCompileInputs.cache
+E:\Research\Test\Sea.Test\Sea.Domain\obj\Debug\net8.0\Sea.Domain.dll
+E:\Research\Test\Sea.Test\Sea.Domain\obj\Debug\net8.0\refint\Sea.Domain.dll
+E:\Research\Test\Sea.Test\Sea.Domain\obj\Debug\net8.0\Sea.Domain.pdb
+E:\Research\Test\Sea.Test\Sea.Domain\obj\Debug\net8.0\ref\Sea.Domain.dll

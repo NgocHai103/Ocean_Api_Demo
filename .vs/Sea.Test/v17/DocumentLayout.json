@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Research\\Test\\Sea.Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA860AF-1152-4EF7-BA30-8786CF433096}|Infrastructure.Persistence.Dapper\\Infrastructure.Persistence.Dapper.csproj|e:\\research\\test\\sea.test\\infrastructure.persistence.dapper\\moduleregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA860AF-1152-4EF7-BA30-8786CF433096}|Infrastructure.Persistence.Dapper\\Infrastructure.Persistence.Dapper.csproj|solutionrelative:infrastructure.persistence.dapper\\moduleregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B6FA4B-2BD0-4B2C-B332-F3B1AB6F922B}|Sea.Api\\Sea.Api.csproj|e:\\research\\test\\sea.test\\sea.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B6FA4B-2BD0-4B2C-B332-F3B1AB6F922B}|Sea.Api\\Sea.Api.csproj|solutionrelative:sea.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B6FA4B-2BD0-4B2C-B332-F3B1AB6F922B}|Sea.Api\\Sea.Api.csproj|e:\\research\\test\\sea.test\\sea.api\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B6FA4B-2BD0-4B2C-B332-F3B1AB6F922B}|Sea.Api\\Sea.Api.csproj|solutionrelative:sea.api\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B6FA4B-2BD0-4B2C-B332-F3B1AB6F922B}|Sea.Api\\Sea.Api.csproj|e:\\research\\test\\sea.test\\sea.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17B6FA4B-2BD0-4B2C-B332-F3B1AB6F922B}|Sea.Api\\Sea.Api.csproj|solutionrelative:sea.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4051022A-1840-49CA-9413-46145C1D20BD}|Sea.Share.RabbitMQ\\Sea.Share.RabbitMQ.csproj|e:\\research\\test\\sea.test\\sea.share.rabbitmq\\rabbitmqmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4051022A-1840-49CA-9413-46145C1D20BD}|Sea.Share.RabbitMQ\\Sea.Share.RabbitMQ.csproj|solutionrelative:sea.share.rabbitmq\\rabbitmqmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4051022A-1840-49CA-9413-46145C1D20BD}|Sea.Share.RabbitMQ\\Sea.Share.RabbitMQ.csproj|e:\\research\\test\\sea.test\\sea.share.rabbitmq\\rabbitmqtopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4051022A-1840-49CA-9413-46145C1D20BD}|Sea.Share.RabbitMQ\\Sea.Share.RabbitMQ.csproj|solutionrelative:sea.share.rabbitmq\\rabbitmqtopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DF6451-18CE-4635-8857-1F47E8C018DB}|Sea.Application\\Sea.Application.csproj|e:\\research\\test\\sea.test\\sea.application\\servicesregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DF6451-18CE-4635-8857-1F47E8C018DB}|Sea.Application\\Sea.Application.csproj|solutionrelative:sea.application\\servicesregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DF6451-18CE-4635-8857-1F47E8C018DB}|Sea.Application\\Sea.Application.csproj|e:\\research\\test\\sea.test\\sea.application\\services\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DF6451-18CE-4635-8857-1F47E8C018DB}|Sea.Application\\Sea.Application.csproj|solutionrelative:sea.application\\services\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DF6451-18CE-4635-8857-1F47E8C018DB}|Sea.Application\\Sea.Application.csproj|e:\\research\\test\\sea.test\\sea.application\\handlers\\requesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DF6451-18CE-4635-8857-1F47E8C018DB}|Sea.Application\\Sea.Application.csproj|solutionrelative:sea.application\\handlers\\requesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4051022A-1840-49CA-9413-46145C1D20BD}|Sea.Share.RabbitMQ\\Sea.Share.RabbitMQ.csproj|e:\\research\\test\\sea.test\\sea.share.rabbitmq\\etos\\requestsendeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4051022A-1840-49CA-9413-46145C1D20BD}|Sea.Share.RabbitMQ\\Sea.Share.RabbitMQ.csproj|solutionrelative:sea.share.rabbitmq\\etos\\requestsendeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4051022A-1840-49CA-9413-46145C1D20BD}|Sea.Share.RabbitMQ\\Sea.Share.RabbitMQ.csproj|e:\\research\\test\\sea.test\\sea.share.rabbitmq\\sea.share.rabbitmq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4051022A-1840-49CA-9413-46145C1D20BD}|Sea.Share.RabbitMQ\\Sea.Share.RabbitMQ.csproj|solutionrelative:sea.share.rabbitmq\\sea.share.rabbitmq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A968601F-6120-4128-9574-DD1C7F8AF0A6}|Sea.Infrastructure\\Sea.Infrastructure.csproj|e:\\research\\test\\sea.test\\sea.infrastructure\\moduleregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A968601F-6120-4128-9574-DD1C7F8AF0A6}|Sea.Infrastructure\\Sea.Infrastructure.csproj|solutionrelative:sea.infrastructure\\moduleregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B6FA4B-2BD0-4B2C-B332-F3B1AB6F922B}|Sea.Api\\Sea.Api.csproj|e:\\research\\test\\sea.test\\sea.api\\configurations\\apiconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B6FA4B-2BD0-4B2C-B332-F3B1AB6F922B}|Sea.Api\\Sea.Api.csproj|solutionrelative:sea.api\\configurations\\apiconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8D3720-4FD8-4973-A064-7A25DEC4E33F}|Sea.Share.ElasticSearch\\Sea.Share.ElasticSearch.csproj|e:\\research\\test\\sea.test\\sea.share.elasticsearch\\services\\implements\\elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8D3720-4FD8-4973-A064-7A25DEC4E33F}|Sea.Share.ElasticSearch\\Sea.Share.ElasticSearch.csproj|solutionrelative:sea.share.elasticsearch\\services\\implements\\elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DF6451-18CE-4635-8857-1F47E8C018DB}|Sea.Application\\Sea.Application.csproj|e:\\research\\test\\sea.test\\sea.application\\mappers\\requestmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DF6451-18CE-4635-8857-1F47E8C018DB}|Sea.Application\\Sea.Application.csproj|solutionrelative:sea.application\\mappers\\requestmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DF6451-18CE-4635-8857-1F47E8C018DB}|Sea.Application\\Sea.Application.csproj|e:\\research\\test\\sea.test\\sea.application\\services\\iservices\\irequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DF6451-18CE-4635-8857-1F47E8C018DB}|Sea.Application\\Sea.Application.csproj|solutionrelative:sea.application\\services\\iservices\\irequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8D3720-4FD8-4973-A064-7A25DEC4E33F}|Sea.Share.ElasticSearch\\Sea.Share.ElasticSearch.csproj|e:\\research\\test\\sea.test\\sea.share.elasticsearch\\services\\ielasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8D3720-4FD8-4973-A064-7A25DEC4E33F}|Sea.Share.ElasticSearch\\Sea.Share.ElasticSearch.csproj|solutionrelative:sea.share.elasticsearch\\services\\ielasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C236926-4106-45DF-8404-3622D98F3350}|Infrastructure.Persistence.EFCore\\Infrastructure.Persistence.EFCore.csproj|e:\\research\\test\\sea.test\\infrastructure.persistence.efcore\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C236926-4106-45DF-8404-3622D98F3350}|Infrastructure.Persistence.EFCore\\Infrastructure.Persistence.EFCore.csproj|solutionrelative:infrastructure.persistence.efcore\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF33DC4E-2498-410A-85E2-7C4B73B8A769}|Sea.Domain\\Sea.Domain.csproj|e:\\research\\test\\sea.test\\sea.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF33DC4E-2498-410A-85E2-7C4B73B8A769}|Sea.Domain\\Sea.Domain.csproj|solutionrelative:sea.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DF6451-18CE-4635-8857-1F47E8C018DB}|Sea.Application\\Sea.Application.csproj|e:\\research\\test\\sea.test\\sea.application\\responses\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DF6451-18CE-4635-8857-1F47E8C018DB}|Sea.Application\\Sea.Application.csproj|solutionrelative:sea.application\\responses\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DF6451-18CE-4635-8857-1F47E8C018DB}|Sea.Application\\Sea.Application.csproj|e:\\research\\test\\sea.test\\sea.application\\services\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DF6451-18CE-4635-8857-1F47E8C018DB}|Sea.Application\\Sea.Application.csproj|solutionrelative:sea.application\\services\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServicesRegister.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Application\\ServicesRegister.cs",
+              "RelativeDocumentMoniker": "Sea.Application\\ServicesRegister.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Application\\ServicesRegister.cs",
+              "RelativeToolTip": "Sea.Application\\ServicesRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:18:40.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Sea.Api\\appsettings.Development.json",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Sea.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T08:10:40.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Sea.Api\\Program.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Api\\Program.cs",
+              "RelativeToolTip": "Sea.Api\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:40:15.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModuleRegister.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Infrastructure.Persistence.Dapper\\ModuleRegister.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence.Dapper\\ModuleRegister.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Infrastructure.Persistence.Dapper\\ModuleRegister.cs",
+              "RelativeToolTip": "Infrastructure.Persistence.Dapper\\ModuleRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:24:27.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestController.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Api\\Controllers\\RequestController.cs",
+              "RelativeDocumentMoniker": "Sea.Api\\Controllers\\RequestController.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Api\\Controllers\\RequestController.cs",
+              "RelativeToolTip": "Sea.Api\\Controllers\\RequestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:31:51.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequestHandler.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Application\\Handlers\\RequestHandler.cs",
+              "RelativeDocumentMoniker": "Sea.Application\\Handlers\\RequestHandler.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Application\\Handlers\\RequestHandler.cs",
+              "RelativeToolTip": "Sea.Application\\Handlers\\RequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:32:10.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RequestSendEto.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Share.RabbitMQ\\Etos\\RequestSendEto.cs",
+              "RelativeDocumentMoniker": "Sea.Share.RabbitMQ\\Etos\\RequestSendEto.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Share.RabbitMQ\\Etos\\RequestSendEto.cs",
+              "RelativeToolTip": "Sea.Share.RabbitMQ\\Etos\\RequestSendEto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:35:09.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sea.Share.RabbitMQ.csproj",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Share.RabbitMQ\\Sea.Share.RabbitMQ.csproj",
+              "RelativeDocumentMoniker": "Sea.Share.RabbitMQ\\Sea.Share.RabbitMQ.csproj",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Share.RabbitMQ\\Sea.Share.RabbitMQ.csproj",
+              "RelativeToolTip": "Sea.Share.RabbitMQ\\Sea.Share.RabbitMQ.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T08:35:46.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RequestService.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Application\\Services\\RequestService.cs",
+              "RelativeDocumentMoniker": "Sea.Application\\Services\\RequestService.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Application\\Services\\RequestService.cs",
+              "RelativeToolTip": "Sea.Application\\Services\\RequestService.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwEoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:24:37.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabbitMQModule.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Share.RabbitMQ\\RabbitMQModule.cs",
+              "RelativeDocumentMoniker": "Sea.Share.RabbitMQ\\RabbitMQModule.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Share.RabbitMQ\\RabbitMQModule.cs",
+              "RelativeToolTip": "Sea.Share.RabbitMQ\\RabbitMQModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:35:55.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RabbitMQTopic.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Share.RabbitMQ\\RabbitMQTopic.cs",
+              "RelativeDocumentMoniker": "Sea.Share.RabbitMQ\\RabbitMQTopic.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Share.RabbitMQ\\RabbitMQTopic.cs",
+              "RelativeToolTip": "Sea.Share.RabbitMQ\\RabbitMQTopic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:35:31.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiConfigurations.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Api\\Configurations\\ApiConfigurations.cs",
+              "RelativeDocumentMoniker": "Sea.Api\\Configurations\\ApiConfigurations.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Api\\Configurations\\ApiConfigurations.cs",
+              "RelativeToolTip": "Sea.Api\\Configurations\\ApiConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:22:03.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModuleRegister.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Infrastructure\\ModuleRegister.cs",
+              "RelativeDocumentMoniker": "Sea.Infrastructure\\ModuleRegister.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Infrastructure\\ModuleRegister.cs",
+              "RelativeToolTip": "Sea.Infrastructure\\ModuleRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:24:56.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Infrastructure.Persistence.EFCore\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence.EFCore\\Repositories\\Repository.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Infrastructure.Persistence.EFCore\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Infrastructure.Persistence.EFCore\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:01:15.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ElasticSearchService.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Share.ElasticSearch\\Services\\Implements\\ElasticSearchService.cs",
+              "RelativeDocumentMoniker": "Sea.Share.ElasticSearch\\Services\\Implements\\ElasticSearchService.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Share.ElasticSearch\\Services\\Implements\\ElasticSearchService.cs",
+              "RelativeToolTip": "Sea.Share.ElasticSearch\\Services\\Implements\\ElasticSearchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:51:45.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Domain\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Sea.Domain\\Repositories\\IRepository.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Domain\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Sea.Domain\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:41:54.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IResult.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Application\\Responses\\IResult.cs",
+              "RelativeDocumentMoniker": "Sea.Application\\Responses\\IResult.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Application\\Responses\\IResult.cs",
+              "RelativeToolTip": "Sea.Application\\Responses\\IResult.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:36:34.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RequestMapper.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Application\\Mappers\\RequestMapper.cs",
+              "RelativeDocumentMoniker": "Sea.Application\\Mappers\\RequestMapper.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Application\\Mappers\\RequestMapper.cs",
+              "RelativeToolTip": "Sea.Application\\Mappers\\RequestMapper.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:38:39.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRequestService.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Application\\Services\\IServices\\IRequestService.cs",
+              "RelativeDocumentMoniker": "Sea.Application\\Services\\IServices\\IRequestService.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Application\\Services\\IServices\\IRequestService.cs",
+              "RelativeToolTip": "Sea.Application\\Services\\IServices\\IRequestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:24:40.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IElasticSearchService.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Share.ElasticSearch\\Services\\IElasticSearchService.cs",
+              "RelativeDocumentMoniker": "Sea.Share.ElasticSearch\\Services\\IElasticSearchService.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Share.ElasticSearch\\Services\\IElasticSearchService.cs",
+              "RelativeToolTip": "Sea.Share.ElasticSearch\\Services\\IElasticSearchService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwDUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:49:58.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "E:\\Research\\Test\\Sea.Test\\Sea.Application\\Services\\IServices\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Sea.Application\\Services\\IServices\\IBaseService.cs",
+              "ToolTip": "E:\\Research\\Test\\Sea.Test\\Sea.Application\\Services\\IServices\\IBaseService.cs",
+              "RelativeToolTip": "Sea.Application\\Services\\IServices\\IBaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:24:39.008Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
